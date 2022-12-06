@@ -15,14 +15,12 @@ that our web service can give the solution of which OTT service to subscribe.
 
 ### Team Name & Members
 
-<aside>
-♾️ **MS Infinity** : *A Team of Mathematics and Statistics Students*
+♾️ MS Infinity  : *A Team of Mathematics and Statistics Students*
 
 - *Yoon Yerin (Team Leader)*
 - *Kim Soomin*
 - *Na HaeSung*
 - *Chang YuJin*
-</aside>
 
 ---
 
@@ -36,24 +34,25 @@ that our web service can give the solution of which OTT service to subscribe.
 
 ### Data ER Diagram
 
-![Untitled](%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%B5%203%201df75e8fe9aa49f7a8455cc15880d4e2/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/99487833/205948790-0db2205e-b6c1-4f56-a1af-56f90edc8f76.png)
 
 ---
 
 ### PHP Data Flow Diagram
 
-![Untitled](%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%B5%203%201df75e8fe9aa49f7a8455cc15880d4e2/Untitled%201.png)
+![Untitled 1](https://user-images.githubusercontent.com/99487833/205948734-8eb8f9eb-945b-403f-b6c2-cabcf16e7049.png)
 
 ---
 
 ### Demonstration Video
 
-[team19 (1).mp4](%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%B5%203%201df75e8fe9aa49f7a8455cc15880d4e2/team19_(1).mp4)
+
+https://user-images.githubusercontent.com/99487833/205954732-5b2afacb-95c3-48c8-99c3-6efdd26bc192.mp4
 
 ---
 
 ### Final Presentation File
 
-[PresentationPPT_team19.pdf](%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%B5%203%201df75e8fe9aa49f7a8455cc15880d4e2/PresentationPPT_team19.pdf)
+[PresentationPPT_team19.pdf](https://github.com/MSInfinity/team19/files/10167647/PresentationPPT_team19.pdf)
 
 ---
